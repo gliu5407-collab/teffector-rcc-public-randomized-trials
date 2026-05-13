@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Five-gene T-effector treatment-effect heterogeneity in public randomized trials of metastatic clear-cell renal-cell carcinoma"
+authors:
+  - family-names: Liu
+    given-names: Guodong
+    affiliation: "Department of Urology, The First Affiliated Hospital of Xi’an Jiaotong University, Xi’an, Shaanxi, China"
+version: 1.0.0
+message: "Please cite the associated manuscript and this archived repository release."
+keywords:
+  - renal cell carcinoma
+  - biomarker
+  - treatment-effect heterogeneity
+  - T-effector
+  - public randomized trial reanalysis

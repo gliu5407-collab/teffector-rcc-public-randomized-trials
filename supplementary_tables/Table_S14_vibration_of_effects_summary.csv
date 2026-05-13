@@ -1,0 +1,4 @@
+component,n_specs,supportive,reversals,notes
+Cox interaction specifications,15,15,0,HR_int<1 in all reasonable Cox specifications; JAVELIN p remains >0.05.
+RMST specifications,18,18,0,RMST difference >0 in all reasonable RMST specifications.
+Overall,33,33,0,Direction-supportive across predeclared grid; not used to change primary analysis.

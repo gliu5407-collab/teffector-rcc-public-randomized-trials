@@ -1,0 +1,18 @@
+claim_type,claim,allowed_wording
+Allowed main,IMmotion150 discovery comparison showed a nominally significant treatment-by-T-effector interaction.,Use nominally significant / discovery comparison; do not imply prospective confirmation.
+Allowed main,JAVELIN provided directionally consistent external support.,State Cox P=0.0536 and not conventional two-sided significance; also state RMST high-minus-low was not confirmatory.
+Allowed supportive,Supportive comparable-trial synthesis summarized shared HR<1 direction.,Do not describe as independent confirmation or validation.
+Allowed supportive,Matched random-gene benchmark supports negative-control specificity.,State sensitivity analysis only; not primary inference and not formal correction.
+Allowed supportive,The score is a candidate treatment-effect modifier requiring prospective validation.,Do not state clinical readiness or immediate treatment assignment.
+Allowed supportive,The score does not define an absolute clinical cutoff.,High/low groups use cohort-specific medians for interpretation only.
+Forbidden,validated biomarker,candidate treatment-effect modifier requiring prospective validation
+Forbidden,confirmed biomarker,directionally consistent external support; not statistical confirmation
+Forbidden,clinical treatment-selection assay,not intended for immediate treatment assignment
+Forbidden,clinically deployable cutoff,does not define an absolute clinical cutoff
+Forbidden,JAVELIN validation,JAVELIN provided directionally consistent external support
+Forbidden,meta-analytic confirmation,supportive comparable-trial synthesis summarized shared direction
+Forbidden,patients should receive ICI combination based on score,candidate biomarker requiring prospective validation; no direct treatment guidance
+Forbidden,T-effector-high uniquely benefits in JAVELIN,JAVELIN RMST supported subgroup benefit but not confirmatory high-versus-low absolute interaction
+Forbidden,predictive biomarker established,more consistent with treatment-effect modification than purely prognostic association; prospective validation required
+Forbidden,CheckMate validated the biomarker,CheckMate is contextual and limits generalization to PD-1 monotherapy versus mTOR inhibition
+Forbidden,KEYNOTE-426/CLEAR/CheckMate 9ER directly validated T-eff5,No public patient-level materials sufficient for the planned fixed-score interaction analysis were identified

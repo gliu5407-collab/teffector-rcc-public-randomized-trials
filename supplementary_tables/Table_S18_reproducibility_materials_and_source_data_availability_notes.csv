@@ -1,0 +1,6 @@
+item,status,notes
+Reproducibility bundle,Prepared,"Contains SAP, master results, claims ledger, forbidden claims, checksums, and verification script; used for manuscript and code transparency."
+Source-data availability,Public files plus supplementary source tables,IMmotion150/JAVELIN/CheckMate data sources and analyzability are summarized in Table S1; source-data restrictions are described in the manuscript data availability statement.
+IMmotion150 full ITT subset balance,Not reconstructable from public files in this project,Full randomized-to-RNA-evaluable comparison could not be reconstructed from public files available to this project; IMmotion150 is interpreted as a biomarker-evaluable discovery/audit signal.
+JAVELIN subset audit,Supplement-ready,"RNA/PFS-evaluable subset broadly balanced on arm, age, sex, and PFS time, with noted PD-L1 missingness and small PFS event imbalance."
+Modern trial non-availability boundary,Documented,"KEYNOTE-426, CLEAR/KEYNOTE-581, and CheckMate 9ER were reviewed for public patient-level materials sufficient for the fixed-score interaction analysis; none were identified."

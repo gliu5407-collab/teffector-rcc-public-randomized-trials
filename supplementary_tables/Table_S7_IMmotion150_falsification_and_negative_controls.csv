@@ -1,0 +1,5 @@
+dataset,analysis,metric,estimate,lower_ci,upper_ci,p_or_fraction,n,events,interpretation
+IMmotion150,Treatment-label permutation,Empirical p (permuted trt),0.0012,,,0.0012,177,113,Empirical falsification / negative-control check; not formal multiplicity correction.
+IMmotion150,Unmatched random five-gene benchmark,Specificity empirical p,0.0019,,,0.0019,177,113,Empirical falsification / negative-control check; not formal multiplicity correction.
+IMmotion150,Expression/variance-matched random five-gene benchmark,frac HR_int <= observed,0.0049004900490049,NA,NA,0.0049004900490049,177,113,Direction-specific HR extremity among matched random sets.
+IMmotion150,Expression/variance-matched random five-gene benchmark,frac P <= observed,0.0044004400440044,NA,NA,0.0044004400440044,177,113,P-value extremity among matched random sets.

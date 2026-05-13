@@ -1,0 +1,1 @@
+JAVELIN Renal 101 biomarker data were obtained from publicly available supplementary materials of the published biomarker analysis. Raw workbooks should be obtained from the original publication. Derived aggregate results and audit summaries are included.

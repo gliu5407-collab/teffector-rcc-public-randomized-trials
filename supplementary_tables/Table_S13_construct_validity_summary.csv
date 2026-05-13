@@ -1,0 +1,8 @@
+dataset,readout,rho,q_value,n,notes
+JAVELIN,MCDERMOTT_TEFF,1.000,0,726,Published T-effector pathway score; overlapping biology.
+JAVELIN,Tcell_inflammed_GEP_MERCK,0.941,0,726,Immune/T-cell inflamed readout.
+JAVELIN,LM22.T_cells_CD8,0.902,4.67e-266,726,Deconvolution/pathway score.
+JAVELIN,CD8_POSITIVE_CELLS_TOTAL_AREA,0.790,9.21e-147,686,Orthogonal CD8 IHC context.
+CheckMate,BIOCARTA_TCYTOTOXIC_PATHWAY,0.841,4.43e-83,311,Immune pathway.
+CheckMate,HALLMARK_INTERFERON_GAMMA_RESPONSE,0.771,1.31e-61,311,IFN-gamma pathway.
+CheckMate,t_cells_cd8 (CIBERSORTx),0.744,2.37e-55,311,Immune deconvolution.

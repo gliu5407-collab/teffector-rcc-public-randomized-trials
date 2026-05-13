@@ -1,0 +1,8 @@
+component,value,notes
+Primary score name,Fixed five-gene T-effector score,Candidate treatment-effect modifier; not a newly discovered biomarker.
+Gene list,CD8A; EOMES; PRF1; IFNG; CD274,Retained unchanged for IMmotion150 discovery/audit and JAVELIN external-support analyses after IMmotion150 discovery/audit phase.
+Biological rationale,"CD8/T-cell effector, cytotoxicity, interferon-gamma, and PD-L1-axis biology","Construct-alignment analyses support immune-effector interpretation, not clinical assay validation."
+"Expression transformation, IMmotion150","log2(TPM+1), then gene-wise z-score within cohort, then mean of 5 genes",TPM matrix from public cBioPortal/iAtlas release.
+"Expression transformation, JAVELIN","Published log2 TPM values used as-is, then gene-wise z-score within cohort, then mean of 5 genes",No double-log transformation.
+Primary analytic form,Continuous cohort-standardized T-effector score,High/low median classification used only for RMST interpretability.
+Clinical cutoff,Not defined,Score is cohort-standardized and high/low uses dataset-specific medians.

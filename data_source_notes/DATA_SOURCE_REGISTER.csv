@@ -1,0 +1,7 @@
+source_id,dataset,role_in_manuscript,source_type,public_access,redistribution_recommended,notes
+IM150,IMmotion150 public iAtlas/cBioPortal,Discovery/audit dataset,public portal/datahub,yes,no_or_derived_only,Use source portal and data-source notes; publish derived outputs and retrieval instructions.
+JAVELIN,JAVELIN Renal 101 supplementary tables,External-support dataset,source-publication supplementary material,yes,no_or_derived_only,Use public supplementary tables; avoid redistributing raw patient-level tables unless license allows.
+CHECKMATE,Braun CheckMate renal cohorts,Contextual cohort,source-publication supplementary material,yes,no_or_derived_only,Contextual only; not primary validation.
+KEYNOTE426,KEYNOTE-426 biomarker literature,Literature boundary,publication/supplement review,partial,no,No public patient-level materials sufficient for frozen Teff5 interaction analysis identified.
+CLEAR,CLEAR/KEYNOTE-581 biomarker literature,Literature boundary,publication/supplement review,partial,no,No public patient-level materials sufficient for frozen Teff5 interaction analysis identified.
+CM9ER,CheckMate 9ER biomarker literature,Literature boundary,publication/supplement review,partial,no,No public RNA-seq patient-level materials sufficient for frozen Teff5 interaction analysis identified.

@@ -1,0 +1,11 @@
+check,status,note
+Ethics placeholder removed,PASS,No “should confirm before submission” in active manuscript
+Author conditional removed,PASS,Single-author contribution now definitive
+Repository not upon acceptance,PASS,Data/code use before submission only
+Discussion post hoc boundary added,PASS,IMmotion150 post-discovery fixed score caveat present
+Figure 3 RMST low detail,PASS,Figure 3 legend includes low subgroup and high-minus-low
+Figure 5 RMST low detail,PASS,Figure 5 legend includes low subgroup and high-minus-low caveat
+JAVELIN validation avoided,PASS,No JAVELIN validation wording in main
+Funding section present,PASS,Separate funding section present
+Data placeholder flagged,PASS,Repository remains required before final submission
+Supplement Table S18 synchronized,PASS,S18 naming matches

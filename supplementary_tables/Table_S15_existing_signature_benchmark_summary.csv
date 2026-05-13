@@ -1,0 +1,4 @@
+dataset,benchmark_group,count_direction_HR_lt_1,T_eff5_rank,notes
+JAVELIN,immune-tagged signatures,8/8,1/8,T-eff5 retained parsimonious advantage; not promoted over primary analysis.
+JAVELIN,MCDERMOTT_ANGIO control,No,NA,Angio control direction differs; biological control.
+IMmotion150,immune-tagged signatures,20/22,1/22,T-eff5 among strongest HR<1 signatures.

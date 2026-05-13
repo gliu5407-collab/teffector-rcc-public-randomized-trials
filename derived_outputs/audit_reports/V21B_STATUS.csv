@@ -1,0 +1,9 @@
+item,status,notes
+V21B_DECISION,ISSUE_RESPONSE_PATCH_PASS_WITH_REPOSITORY_PLACEHOLDER,Manuscript and cover-letter wording patched
+PRIMARY_ANALYSIS_CHANGED,NO,No analysis was rerun
+NUMERICAL_RESULTS_CHANGED,NO,No locked numerical result changed
+BIOMARKER_CHANGED,NO,CD8A/EOMES/PRF1/IFNG/CD274 unchanged
+ENDPOINT_CHANGED,NO,PFS unchanged
+CUTOFF_CHANGED,NO,No cutoff changed
+FORMAL_FIGURES_CREATED,NO,No figures created
+REPOSITORY_LINK_PENDING,YES,Must be inserted before submission

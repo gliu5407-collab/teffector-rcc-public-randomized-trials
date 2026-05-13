@@ -1,0 +1,11 @@
+dataset,teff_gene,mean_bin,sd_bin,pool_size,expansion_radius
+IMmotion150,CD8A,9,5,293,0
+IMmotion150,EOMES,8,6,512,0
+IMmotion150,PRF1,8,5,760,0
+IMmotion150,IFNG,6,10,2221,0
+IMmotion150,CD274,8,5,760,0
+JAVELIN,CD8A,7,10,213,0
+JAVELIN,EOMES,6,10,309,0
+JAVELIN,PRF1,8,9,133,0
+JAVELIN,IFNG,4,10,697,0
+JAVELIN,CD274,5,9,465,0

@@ -1,0 +1,11 @@
+# Repository license and reuse scope
+
+This public repository contains mixed materials.
+
+1. Analysis code and repository-check scripts are released under the MIT License. See `LICENSE_CODE_MIT.txt`.
+
+2. Manuscript-supporting documentation, derived summary tables, audit reports, and source-data notes are provided for scholarly transparency, manuscript review, and citation of the associated archived release.
+
+3. This repository does not claim ownership of, and does not redistribute, raw third-party clinical-trial datasets, raw RNA-seq matrices, cBioPortal study files, published supplementary workbooks, controlled-access data, or identifiable private information. Source trial data remain governed by the terms of their original sources, publications, and data-sharing policies.
+
+4. Users wishing to reproduce or extend analyses should obtain third-party source data from the original portals or publications listed in `data_source_notes/DATA_SOURCE_REGISTER.csv` and should cite the associated manuscript and archived repository release.

@@ -1,0 +1,25 @@
+dataset,variable,biomarker_evaluable,non_evaluable,unit,SMD,notes
+JAVELIN,parent_randomized_n,886,,count,,Parent randomized population in public clinical table; RNA/PFS-evaluable n=726 and non-evaluable n=160.
+IMmotion150,parent_randomized_n,305,,count,,Original randomized trial size reported in the literature; full randomized-to-RNA-evaluable patient-level comparison was not reconstructable from public files available to this project.
+CheckMate-025/Braun,parent_randomized_n,803,,count,,CM-025 clinical table total; contextual cohort only.
+JAVELIN,n_subset,726,160,count,,
+JAVELIN,trt_Avelumab+Axitinib_pct,48.8,54.4,%,SMD=-0.113,
+JAVELIN,trt_Sunitinib_pct,51.2,45.0,%,SMD=+0.125,
+JAVELIN,pfs_event_prop,0.493 (n=726),0.403 (n=159),prop,SMD=+0.183,PFS missing in non-evaluable: 1/160
+JAVELIN,pfs_time_mean,7.45,7.28,months,SMD=+0.032,
+JAVELIN,pfs_time_median,6.93,7.03,months,,
+JAVELIN,age_mean,60.7,61.1,years,SMD=-0.039,
+JAVELIN,sex_F_pct,24.5,30.0,%,SMD=-0.123,
+JAVELIN,pdl1_pos_pct,71.1 (n=726),51.2 (n=86),%,SMD=+0.417,PDL1 missing in non-evaluable: 74/160 (46.2%); PDL1 missingness itself is informative
+IMmotion150,n_subset,177,,count,,Public IMmotion150 ENA/PFS-RNA-evaluable cohort only; full screened ITT clinical not in this project
+IMmotion150,note,,,,,"Comparison of biomarker-evaluable vs non-evaluable cannot be computed from publicly accessible files in this project. Reference: original IMmotion150 (NCT01984242) randomized 305 patients across three arms (101 AtezoBev, 103 Atezo, 101 Sun); the AtezoBev vs Sunitinib pair has 177 RNA+PFS-evaluable here."
+CheckMate-025/Braun,n_subset_CM025,250,553,count,,CM-025 total n=803; RNA-evaluable=250 (31.1%); non-evaluable=553
+CheckMate-025/Braun,arm_NIVOLUMAB_pct,48.0,51.7,%,SMD=-0.074,"Contextual, not validation"
+CheckMate-025/Braun,arm_EVEROLIMUS_pct,52.0,48.3,%,SMD=+0.074,"Contextual, not validation"
+CheckMate-025/Braun,pfs_event_prop,0.888 (n=250),0.855 (n=553),prop,SMD=+0.098,Braun convention CNSR=1=event
+CheckMate-025/Braun,pfs_time_mean,7.47,8.17,months,SMD=-0.065,
+CheckMate-025/Braun,pfs_time_median,3.75,3.71,months,,
+CheckMate-025/Braun,os_event_prop,0.764 (n=250),0.734 (n=553),prop,SMD=+0.069,Braun convention CNSR=1=event
+CheckMate-025/Braun,age_mean,61.8,61.1,years,SMD=+0.059,
+CheckMate-025/Braun,sex_F_pct,25.6,24.2,%,SMD=+0.032,
+CheckMate-025/Braun,mskcc_poor_pct,19.2,18.4,%,SMD=+0.019,

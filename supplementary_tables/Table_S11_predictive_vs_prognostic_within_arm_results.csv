@@ -1,0 +1,5 @@
+trial,arm,HR_per_SD_Teff,CI,p_value,n,events,interpretation
+IMmotion150,Sunitinib,1.233,0.921–1.649,0.1591,89,55,Descriptive; not primary evidence.
+IMmotion150,Atezolizumab+Bevacizumab,0.654,0.500–0.854,0.0019,88,58,Descriptive; suggests immune-combination arm association.
+JAVELIN Renal 101,Sunitinib,1.035,0.877–1.221,0.6871,372,201,Descriptive; neutral in sunitinib arm.
+JAVELIN Renal 101,Avelumab+Axitinib,0.799,0.657–0.972,0.0248,354,157,Descriptive; supports treatment-modifying interpretation but primary evidence remains randomized interaction.

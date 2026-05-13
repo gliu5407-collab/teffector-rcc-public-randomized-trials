@@ -1,0 +1,1 @@
+KEYNOTE-426, CLEAR/KEYNOTE-581, and CheckMate 9ER were treated as literature context/non-availability boundaries because no publicly available patient-level materials sufficient to reconstruct the fixed five-gene score and run the planned treatment-by-biomarker interaction analysis were identified in the project audit.

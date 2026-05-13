@@ -1,0 +1,4 @@
+dataset,analysis,metric,estimate,p_or_fraction,n,events,interpretation
+JAVELIN Renal 101,Unmatched random five-gene benchmark,Specificity empirical p,0.262,0.262,726,358,Weaker than IMmotion150; transparent negative-control specificity check.
+JAVELIN Renal 101,Expression/variance-matched random five-gene benchmark,frac HR_int <= observed,0.0033,0.0033,726,358,Supports prespecified HR direction.
+JAVELIN Renal 101,Expression/variance-matched random five-gene benchmark,frac P <= observed,0.4183,0.4183,726,358,Does not support P-value extremity; consistent with borderline Cox interaction.
