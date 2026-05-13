@@ -1,0 +1,26 @@
+{
+  "title": "Five-gene T-effector treatment-effect heterogeneity in public randomized trials of metastatic clear-cell renal-cell carcinoma",
+  "description": "Public code-support repository for a manuscript evaluating a fixed five-gene T-effector score (CD8A, EOMES, PRF1, IFNG, CD274) as a candidate treatment-effect modifier across public randomized-trial datasets in metastatic clear-cell renal-cell carcinoma. This release contains code-support materials, derived non-identifying outputs, supplementary tables, audit reports, and source-data access notes. It does not redistribute raw third-party patient-level clinical-trial datasets. Code is released under the MIT License; derived documentation and tables are governed by the repository content and third-party data license notices.",
+  "creators": [
+    {
+      "name": "Liu, Guodong",
+      "affiliation": "Department of Urology, The First Affiliated Hospital of Xi’an Jiaotong University, Xi’an, Shaanxi, China"
+    }
+  ],
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "other-open",
+  "keywords": [
+    "renal cell carcinoma",
+    "clear-cell renal-cell carcinoma",
+    "biomarker",
+    "treatment-effect heterogeneity",
+    "T-effector",
+    "public randomized trial reanalysis",
+    "IMmotion150",
+    "JAVELIN Renal 101"
+  ],
+  "related_identifiers": [],
+  "notes": "The Zenodo license field is set as other-open because this repository contains mixed materials: analysis code under MIT, derived manuscript-support materials, and third-party data provenance notes. See LICENSE, LICENSE_CODE_MIT.txt, and LICENSE_CONTENT_NOTICE.md for scope."
+}
