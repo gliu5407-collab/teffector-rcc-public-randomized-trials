@@ -1,0 +1,15 @@
+# Local/generated data not intended for public repository upload
+data/
+output/
+output_v*/
+scripts_v*/
+*.rds
+*.RData
+*.xlsx
+*.xls
+*.log
+*.tmp
+.env
+__MACOSX/
+.DS_Store
+Thumbs.db
